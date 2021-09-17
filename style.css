@@ -1,0 +1,20 @@
+/*this is my comment */
+h1{ color: #f0f8f0;
+    font-size :48px;}
+
+h3{ color: white;}
+body {
+    background-image:url("R (1).jpg");
+}
+p { 
+    color: white;} 
+#navbar {
+    background-color: cornflowerblue;
+    height: 14vh;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+.contact { font-size: 28px;}
+
+.rightimg{float:right;}
